@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.d4dfa79a.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.d4dfa79a.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.fa4f8d2c.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.fa4f8d2c.js.map",
-    "static/js/2.469cfbce.chunk.js": "/react-gh-pages/static/js/2.469cfbce.chunk.js",
-    "static/js/2.469cfbce.chunk.js.map": "/react-gh-pages/static/js/2.469cfbce.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.fb02f96c4f6ffe2b3d575baaa2d38b5a.js": "/react-gh-pages/precache-manifest.fb02f96c4f6ffe2b3d575baaa2d38b5a.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-gh-pages/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.469cfbce.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.469cfbce.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.5d5d9eef.svg"
+    "main.css": "/myfirstreactproject/static/css/main.5f361e03.chunk.css",
+    "main.js": "/myfirstreactproject/static/js/main.bd3d8638.chunk.js",
+    "main.js.map": "/myfirstreactproject/static/js/main.bd3d8638.chunk.js.map",
+    "runtime-main.js": "/myfirstreactproject/static/js/runtime-main.5eac1b7c.js",
+    "runtime-main.js.map": "/myfirstreactproject/static/js/runtime-main.5eac1b7c.js.map",
+    "static/js/2.469cfbce.chunk.js": "/myfirstreactproject/static/js/2.469cfbce.chunk.js",
+    "static/js/2.469cfbce.chunk.js.map": "/myfirstreactproject/static/js/2.469cfbce.chunk.js.map",
+    "index.html": "/myfirstreactproject/index.html",
+    "precache-manifest.a4a2d772e100a0dd2b1ef88a9f5d96af.js": "/myfirstreactproject/precache-manifest.a4a2d772e100a0dd2b1ef88a9f5d96af.js",
+    "service-worker.js": "/myfirstreactproject/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/myfirstreactproject/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.469cfbce.chunk.js.LICENSE.txt": "/myfirstreactproject/static/js/2.469cfbce.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/myfirstreactproject/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa4f8d2c.js",
+    "static/js/runtime-main.5eac1b7c.js",
     "static/js/2.469cfbce.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d4dfa79a.chunk.js"
+    "static/js/main.bd3d8638.chunk.js"
   ]
 }
