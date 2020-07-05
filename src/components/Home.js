@@ -18,6 +18,7 @@ export default function home () {
                     Learn React
                 </a>
                 <Link to="/about">About</Link>
+                <Link to="/tictactoe">TicTacToe</Link>
             </header>
         </div>
     );
